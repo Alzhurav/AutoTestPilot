@@ -10,4 +10,8 @@ import pilot.autotest.common.GUIActionsAssertJ;
  */
 public class TestApp {
 	GUIActionsAssertJ fsdf = new GUIActionsAssertJ();
+
+	поднять frame из модуля
+			запустить нажималку и попробовать нажать Получить фэйл
+	После попробовать приконектиться к запущенной jvm и снова запустить нажималку
 }
